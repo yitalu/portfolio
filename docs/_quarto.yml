@@ -1,0 +1,10 @@
+project:
+  type: website
+
+website: 
+  title: "Stats Portfolio"
+
+format:
+  html:
+    css:
+      - latex.css
