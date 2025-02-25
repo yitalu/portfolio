@@ -6,5 +6,8 @@ website:
 
 format:
   html:
+    minimal: false
+    toc: false
     css:
       - latex.css
+    html-math-method: katex
