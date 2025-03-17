@@ -33,7 +33,7 @@ title: "Portfolio"
 <div>
   <ol>
     <li>Does improving service quality really retain telecom customers?</li>
-    <li>Predicting COVID outbreak by wastewater chemicals</li>
+    <li><a href="https://github.com/yitalu/wastewater_based_epidemiology">Predicting COVID outbreak by wastewater chemicals</a></li>
   </ol>
 </div>
 
