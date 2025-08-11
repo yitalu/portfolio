@@ -18,7 +18,7 @@ title: "Portfolio"
 <div class="abstract">
     <br>
     <p>
-      This webpage hosts my statistical and machine learning projects.
+      This webpage hosts my stats projects.
     </p>
 </div>
 
