@@ -18,7 +18,7 @@ title: "Portfolio"
 <div class="abstract">
     <br>
     <p>
-      This webpage hosts my stats projects.
+      This webpage hosts my projects on stats, modeling, and others.
     </p>
 </div>
 
@@ -32,8 +32,8 @@ title: "Portfolio"
 
 <div>
   <ol>
-    <li>Does improving service quality really retain telecom customers?</li>
     <li><a href="https://github.com/yitalu/wastewater_based_epidemiology">Predicting COVID outbreak by wastewater chemicals</a></li>
+    <li><a href="https://github.com/yitalu/reproduction_social_mobility">Reproduction and Social Mobility</a></li>
   </ol>
 </div>
 
