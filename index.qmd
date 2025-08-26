@@ -32,7 +32,7 @@ title: "Portfolio"
 
 <div>
   <ol>
-    <li><a href="https://github.com/yitalu/stan_for_meta_analysis">Stan for Bayesian Network Meta-Analysis (Indirect Treatment Comparison)</a></li>
+    <li><a href="https://github.com/yitalu/stan_for_meta_analysis">Stan for Bayesian Network Meta-Analysis (Indirect Treatment Comparisons)</a></li>
     <li><a href="https://github.com/yitalu/wastewater_based_epidemiology">Predicting COVID outbreak by wastewater chemicals</a></li>
     <li><a href="https://github.com/yitalu/reproduction_social_mobility">Reproduction and Social Mobility</a></li>
   </ol>
