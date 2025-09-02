@@ -32,25 +32,25 @@ title: "Portfolio"
   <ol>
     <li><a href="https://github.com/yitalu/bayesian_survival_analysis">Bayesian Survival Analysis</a></li>
     <p align="left">
-    <img src="figures/posterior_survival_weibull_by_seniority.png" alt="Posterior Survival Weibull by Seniority" width="60%">
+    <img src="figures/posterior_survival_weibull_by_seniority.png" alt="Posterior Survival Weibull by Seniority" width="50%">
     <p>
     
     <br>
     <li><a href="https://github.com/yitalu/stan_for_meta_analysis">Stan for Bayesian Network Meta-Analysis (Indirect Treatment Comparisons)</a></li>
     <p align="left">
-    <img src="figures/network.png" alt="Network" width="60%">
+    <img src="figures/network.png" alt="Network" width="50%">
     <p>
 
     <br>
     <li><a href="https://github.com/yitalu/wastewater_based_epidemiology">Predicting COVID outbreak by wastewater chemicals</a></li>
     <p align="left">
-    <img src="figures/Rplot95_validate.jpg" alt="Rplot95_validate" width="60%">
+    <img src="figures/Rplot95_validate.jpg" alt="Rplot95_validate" width="50%">
     <p>
 
     <br>
     <li><a href="https://github.com/yitalu/reproduction_social_mobility">Reproduction and Social Mobility</a></li>
     <p align="left">
-    <img src="figures/multirun_strategy_BV.jpg" alt="Rplot95_validate" width="60%">
+    <img src="figures/multirun_strategy_BV.jpg" alt="Rplot95_validate" width="50%">
     <!-- <img src="figures/fitness_multirun_BV.jpg" alt="Rplot95_validate" width="49%"> -->
     <p>
 
